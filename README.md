@@ -114,11 +114,3 @@ This will:
 
 ---
 
-## ✨ Future Ideas
-
-- Add multiple dominant colors
-- Web interface with Flask or Streamlit
-- Store image result as base64 in DB
-- Docker support
-
----
